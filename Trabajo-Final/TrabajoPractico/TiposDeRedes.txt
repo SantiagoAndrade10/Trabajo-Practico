@@ -1,5 +1,5 @@
 4 Tipos de Redes
-
+ 
 Red de tipo Estrella
 Red de tipo Anillo
 Red de tipo Malla
